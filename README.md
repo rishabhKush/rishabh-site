@@ -1,0 +1,1 @@
+This project is a demo for creating Student Portfolio. I created this for learning Git and its functionalities
